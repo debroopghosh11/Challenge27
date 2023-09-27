@@ -1,2 +1,3 @@
 NAME: DEBROOP GHOSH
 GITHUB ID: debroopghosh11
+DISCORD ID: deb.roop
